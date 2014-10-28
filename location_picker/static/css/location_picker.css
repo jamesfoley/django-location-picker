@@ -1,0 +1,19 @@
+/* line 4, ../scss/location_picker.scss */
+input.location_map_search_box {
+  margin-bottom: 10px;
+}
+
+/* line 9, ../scss/location_picker.scss */
+.location_map_picker {
+  width: 100%;
+  height: 350px;
+  margin-bottom: 10px;
+  background: #EEEEEE;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+/* line 18, ../scss/location_picker.scss */
+.location_map_picker img {
+  max-width: none !important;
+}
