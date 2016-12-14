@@ -125,5 +125,5 @@ function set_marker(map, google_map, position, input, center, zoom) {
     }
 
     // Set value of field
-    input.val(position.k + "," + position.B);
+    input.val(position.lat() + "," + position.lng());
 }
